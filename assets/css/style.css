@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Raleway", sans-serif;
 }
 
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -137,6 +138,18 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   color: #fff;
 }
 
+.about .b1 a{
+  background: #eb5d1e;
+  color: #fff;
+  border-radius: 50px;
+  margin: 0 15px;
+  padding: 10px 25px;
+
+}
+.about a:hover {
+  background: #ee7843;
+  color: #fff;
+}
 .nav-menu .drop-down ul {
   display: block;
   position: absolute;
